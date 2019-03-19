@@ -2,4 +2,4 @@
 
 My portfolio of data science projects:
 
-1) [Correlates of pollution](2019-03-15-correlates-of-pollution/correlates%20of%20pollution.ipynb) - modelling pollution data using time series analysis and linear regression
+1) [Correlates of pollution](2019-03-15-correlates-of-pollution/correlates%20of%20pollution.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/btel/portfolio/blob/master/2019-03-15-correlates-of-pollution/correlates%20of%20pollution.ipynb)) - modelling pollution data using time series analysis and linear regression
